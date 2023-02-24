@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/pass-gen/static/css/main.9d0b4509.css",
-    "main.js": "/pass-gen/static/js/main.807e3bd5.js",
+    "main.css": "/pass-gen/static/css/main.eb7723c0.css",
+    "main.js": "/pass-gen/static/js/main.d238afc1.js",
     "static/js/27.70b52caf.chunk.js": "/pass-gen/static/js/27.70b52caf.chunk.js",
     "index.html": "/pass-gen/index.html"
   },
   "entrypoints": [
-    "static/css/main.9d0b4509.css",
-    "static/js/main.807e3bd5.js"
+    "static/css/main.eb7723c0.css",
+    "static/js/main.d238afc1.js"
   ]
 }
