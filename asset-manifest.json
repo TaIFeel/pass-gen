@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/pass-gen/static/css/main.c264b794.css",
-    "main.js": "/pass-gen/static/js/main.86639cd9.js",
-    "static/js/27.34a6b98b.chunk.js": "/pass-gen/static/js/27.34a6b98b.chunk.js",
-    "index.html": "/pass-gen/index.html"
+    "main.css": "/tamriel/static/css/main.27209e46.css",
+    "main.js": "/tamriel/static/js/main.19d1b848.js",
+    "static/js/787.0deb472a.chunk.js": "/tamriel/static/js/787.0deb472a.chunk.js",
+    "static/media/logo.png": "/tamriel/static/media/logo.6b4ff819a6e9a27056cb.png",
+    "index.html": "/tamriel/index.html",
+    "main.27209e46.css.map": "/tamriel/static/css/main.27209e46.css.map",
+    "main.19d1b848.js.map": "/tamriel/static/js/main.19d1b848.js.map",
+    "787.0deb472a.chunk.js.map": "/tamriel/static/js/787.0deb472a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c264b794.css",
-    "static/js/main.86639cd9.js"
+    "static/css/main.27209e46.css",
+    "static/js/main.19d1b848.js"
   ]
 }
